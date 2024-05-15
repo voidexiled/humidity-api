@@ -1,0 +1,137 @@
+[
+  {
+    "id": 0,
+    "humidity": 85,
+    "filenameImage": "2.jpg",
+    "year": 2024,
+    "month": 1,
+    "day": 16,
+    "hour": 14
+  },
+  {
+    "id": 1,
+    "humidity": 68.5,
+    "filenameImage": "2.jpg",
+    "year": 2024,
+    "month": 2,
+    "day": 16,
+    "hour": 15
+  },
+  {
+    "id": 2,
+    "humidity": 48.92,
+    "filenameImage": "2.jpg",
+    "year": 2024,
+    "month": 3,
+    "day": 16,
+    "hour": 16
+  },
+  {
+    "id": 3,
+    "humidity": 72,
+    "filenameImage": "2.jpg",
+    "year": 2024,
+    "month": 4,
+    "day": 16,
+    "hour": 17
+  },
+  {
+    "id": 4,
+    "humidity": 60,
+    "filenameImage": "2.jpg",
+    "year": 2024,
+    "month": 5,
+    "day": 16,
+    "hour": 18
+  },
+  {
+    "id": 5,
+    "humidity": 80,
+    "filenameImage": "2.jpg",
+    "year": 2024,
+    "month": 6,
+    "day": 16,
+    "hour": 19
+  },
+  {
+    "id": 6,
+    "humidity": 55,
+    "filenameImage": "2.jpg",
+    "year": 2024,
+    "month": 7,
+    "day": 16,
+    "hour": 20
+  },
+  {
+    "id": 7,
+    "humidity": 90,
+    "filenameImage": "2.jpg",
+    "year": 2024,
+    "month": 8,
+    "day": 16,
+    "hour": 21
+  },
+  {
+    "id": 8,
+    "humidity": 42,
+    "filenameImage": "2.jpg",
+    "year": 2024,
+    "month": 9,
+    "day": 16,
+    "hour": 22
+  },
+  {
+    "id": 9,
+    "humidity": 78,
+    "filenameImage": "2.jpg",
+    "year": 2024,
+    "month": 10,
+    "day": 16,
+    "hour": 23
+  },
+  {
+    "id": 10,
+    "humidity": 65,
+    "filenameImage": "2.jpg",
+    "year": 2024,
+    "month": 11,
+    "day": 16,
+    "hour": 0
+  },
+  {
+    "id": 11,
+    "humidity": 88,
+    "filenameImage": "2.jpg",
+    "year": 2024,
+    "month": 12,
+    "day": 16,
+    "hour": 1
+  },
+  {
+    "id": 12,
+    "humidity": 70,
+    "filenameImage": "2.jpg",
+    "year": 2024,
+    "month": 1,
+    "day": 16,
+    "hour": 2
+  },
+  {
+    "id": 13,
+    "humidity": 45,
+    "filenameImage": "2.jpg",
+    "year": 2024,
+    "month": 2,
+    "day": 16,
+    "hour": 3
+  },
+  {
+    "id": 14,
+    "humidity": 75,
+    "filenameImage": "2.jpg",
+    "year": 2024,
+    "month": 3,
+    "day": 16,
+    "hour": 4
+  }
+]
